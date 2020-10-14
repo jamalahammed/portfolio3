@@ -1,0 +1,264 @@
+/* set initial value */
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+/* end setting initial value*/
+/* css for navbar start from here */
+
+
+.navbar{
+display: flex;
+align-items: center;
+padding: 20px;
+}
+.navbar nav{
+flex: 1;
+text-align: right;
+
+}
+
+
+
+}
+
+/* css for nav */
+nav{
+flex: 1;
+text-align: right;
+
+
+
+}
+
+
+
+}
+/* css for nav ul*/
+nav ul{
+display: inline-block;
+list-style-type: none;
+}
+
+
+
+/* css for nav ul li */
+nav ul li{
+display: inline-block;
+margin-right: 20px;
+}
+
+
+
+/* css for anchor tag*/
+a{
+text-decoration: none;
+color: #555;
+}
+
+
+
+/* css for p tag */
+p{
+color: #555;
+}
+
+
+
+/* css for cantainer */
+.cantainer{
+max-width: 1300px;
+margin: auto;
+padding-left: 25px;
+padding-right: 25px;
+}
+
+
+
+/* css for row */
+.row{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+justify-content: space-around;
+
+
+
+}
+/* css for clo-2 section*/
+.col-2{
+flex-basis:50% ;
+min-width: 300px;
+
+
+
+}
+/* css for clo-2 img*/
+.col-2 img{
+max-width: 100%;
+padding: 50px 0;
+}
+
+
+/* css for clo-2 h1 */
+.col-2 h1{
+font-size: 50px;
+line-height: 60px;
+margin: 25px;
+}
+
+
+/* css for button*/
+.btn{
+display: inline-block;
+background: #ff523b;
+color: #fff;
+margin: 30px 0;
+padding: 8px 30px;
+border-radius: 15px;
+transition: background 0.5s;
+}
+
+
+/* css for button Hover */
+.btn:hover{
+background: #563434;
+}
+
+
+
+/* css for header and raw */
+.header .raw{
+margin-top: 25px;
+}
+/* navbar css end here*/
+
+
+
+
+/* CSS for second section*/
+.text{
+text-align: center;
+margin-bottom: 50px;
+background-color: #fff;
+border-bottom: 2px solid green;
+}
+
+
+
+/* css for categories*/
+.categories{
+margin: 70px;
+}
+/* css for col-3*/
+.col-3{
+flex-basis: 30%;
+min-width: 360px;
+margin-bottom: 30px;
+}
+
+
+
+/* css for col-3 img*/
+.col-3 img{
+width: 100%;
+}
+
+
+
+/* css for small-container*/
+.small-container{
+max-width:1400px;
+margin: 10px;
+padding-left: 25px;
+padding-right: 25px;
+}
+
+
+/* css for second section end here*/
+
+/* css for third section start */
+
+
+
+
+/* css for tird section end here */
+
+
+
+/* CSS for portfolio section start*/
+.portfolio{
+margin-top: 200px;
+margin-bottom: 60px;
+
+
+
+}
+
+
+
+
+.jamal-portfolio{display: inline-flexbox;
+
+
+
+}
+
+.img{
+
+background: #fff;
+text-align: center;
+
+}
+
+.name{
+text-align: center;
+background-color:#fff;
+}
+.description{
+background-color:#fff;
+text-align: center;
+
+}
+
+/* css for portfolio section end*/
+
+/* css for footer start*/
+
+.footer{
+margin-top: 70px;
+margin-top: 88px;
+background: chartreuse;
+width: 100%;
+height: 300px;
+display: inline-flex;
+
+}
+.footer1{
+width: 40%;
+height: 200px;
+margin: 50px;
+
+
+}
+
+.div1{
+text-align: center;
+
+
+}
+
+
+.div2{
+text-align: center;
+margin: 16px;
+border: 1px solid green;
+border-radius: 50px;
+
+
+}
+
+/* css for footer end*/
+
+

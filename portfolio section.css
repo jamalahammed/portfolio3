@@ -1,0 +1,56 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* css for portfolio 1 start*/
+
+.portfolio1{
+display: inline-flex;
+margin-left: 300px;
+margin-bottom: 20px;
+border-bottom: 4px solid red;
+border-radius: 5px;
+
+}
+
+
+.section1{
+margin-top: 20px;
+margin-left: 20px;
+
+
+}
+.sub-section{
+width: 400px;
+height: 400px;
+background-color:#fff;
+position: relative;
+
+
+
+}
+.portfolio-div1{
+position: absolute;
+margin-top: 75px;
+margin-left: 10px;
+
+
+}
+
+.portfolio-div1 img{
+border: 1px solid;
+border-radius: 1000px;
+
+
+}
+
+.naming{
+position: absolute;
+margin-left:200px ;
+margin-top: 90px;
+
+}
+
+/* css for portfolio 1 end*/
